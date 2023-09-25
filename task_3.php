@@ -10,7 +10,7 @@ function printGrades($grades)
 }
 
 printGrades($grades);
-//print_r($grades); // Main Array unchanged as the operation is inside the function's local scope
+//print_r($grades); 
 //printGrades($grades2); // added for testing function
 
 
